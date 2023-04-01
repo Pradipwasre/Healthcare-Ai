@@ -13,3 +13,7 @@ project: 01
 ## What are the first warning signs of pneumonia?
 
 - Early symptoms are similar to influenza symptoms: fever, a dry cough, headache, muscle pain, and weakness. Within a day or two, the symptoms typically get worse, with increasing cough, shortness of breath and muscle pain. There may be a high fever and there may be blueness of the lips.
+
+## About the dataset:
+
+- We collected the images from the Kaggle dataset repository and we got 26684 images. In this we are using 24000 imgaes for the training the model and 2684 images for the validation
