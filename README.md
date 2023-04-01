@@ -8,7 +8,7 @@ project: 01
 
 
 * Pneumonia is a common infectious disease. In 2017 1.3 million people were diagnosed with pneumonia in United states.
-* 
+* Research Says: About 1 million adults in the US seek care in a hospital due to pneumonia every year, and 50,000 die from this disease. than the age extremes, it is always a threat. Half of all non-immunocompromised adults hospitalized for severe pneumonia in the US are younger adults (18-57 years of age).
 
 ## What are the first warning signs of pneumonia?
 
