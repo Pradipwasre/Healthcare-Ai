@@ -19,7 +19,6 @@ project: 01
 
 ### About the dataset:
 
-
 - Data work
 * We collected the images from the Kaggle dataset repository and we got 26684 images. In this we are using 24000 imgaes for the training the model and 2684 images for the validation
 * Resize the imeage size : We have the images in 1024 * 1024 and we are resizing in 224 * 224
